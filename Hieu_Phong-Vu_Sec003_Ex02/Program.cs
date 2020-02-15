@@ -8,6 +8,7 @@ namespace Hieu_Phong_Vu_Sec003_Ex02
 {
     class Program
     {
+        //Testing Exercise 2
         static void Main(string[] args)
         {
             Invoice[] invoices = new Invoice[] { 
